@@ -78,5 +78,5 @@ module.exports.sockets = {
 
   // grant3rdPartyCookie: true,
 
-  onlyAllowOrigins: ["http://sailsrf.herokuapp.com", "http://sailsrf.herokuapp.com"],
+  onlyAllowOrigins: ["http://www.matrixweb.info", "http://matrixweb.info"],
 };
