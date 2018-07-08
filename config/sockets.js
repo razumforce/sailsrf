@@ -78,5 +78,4 @@ module.exports.sockets = {
 
   // grant3rdPartyCookie: true,
 
-  onlyAllowOrigins: ["http://www.matrixweb.info", "http://matrixweb.info"],
 };
